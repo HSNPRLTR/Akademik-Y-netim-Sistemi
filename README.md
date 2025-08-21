@@ -33,3 +33,7 @@ Mimari: Katmanlı yapı (Controllers, Models, Data, Services)
 
 Sonuç:
 Proje, modern yazılım geliştirme standartları gözetilerek inşa edilmiş, test edilebilir ve sürdürülebilir bir mimariyle hazırlanmıştır. Öğrenciler, akademisyenler ve yöneticiler için farklı işlemleri kapsayan uç noktalar sağlanmış, ayrıca sistemde yapılan tüm önemli işlemler kayıt altına alınmıştır.
+
+
+Projeyi indirmek için link:
+https://www.mediafire.com/file/0y58rtnjp2ulrgk/Apisistem.rar/file
